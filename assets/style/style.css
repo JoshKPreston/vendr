@@ -21,7 +21,7 @@ body {
   max-width: 400px;
   min-height: 640px;
   max-height: 711px;
-  margin: 200px auto;
+  margin: 0px auto;
   box-shadow: 10px -10px 10px 0px #001445;
 }
 
@@ -256,4 +256,12 @@ button {
       filter: blur(12px) opacity(0%);
     }
   }
+
+
+
+@media (min-width: 768px) { 
+  .vending-machine {
+    margin-top: 25vh;
+  }
+}
   
