@@ -9,7 +9,7 @@
 
 
 body {
-    background: url('/assets/img/bg-vendr.jpg') no-repeat center;
+    background: url('/assets/img/bg-vendr.png') no-repeat center;
     background-size: cover;
     overflow:hidden;  
 /*   font-family: 'Mansalva', cursive; */
@@ -21,7 +21,7 @@ body {
   max-width: 400px;
   min-height: 640px;
   max-height: 711px;
-  margin: 200px 0px 0px 570px;
+  margin: 200px auto;
   box-shadow: 10px -10px 10px 0px #001445;
 }
 
