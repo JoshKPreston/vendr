@@ -18,7 +18,7 @@ function _draw () {
     <div class="col-3">
       <div class="row h-100">
           <button id="pay" onclick="app.saleItemController.addFunds(prompt('You have \$${ProxyState.cashOnHand}... How much would you like to add?'))" class="col-12 d-flex justify-content-center align-items-center pay" data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>"></button>
-          <button id="returnChange" onclick="app.saleItemController.returnFunds()" class="col-12 d-flex justify-content-center align-items-center return-change" data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">
+          <button id="returnChange" onclick="app.saleItemController.returnFunds()" class="col-12 d-flex justify-content-center align-items-center return-change" data-toggle="tooltip" data-html="true" title="">
             <!-- <img src="assets/img/pepmi.png" width="55" height="45" alt="" loading="lazy"> -->
           </button>
       </div>

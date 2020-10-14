@@ -46,7 +46,7 @@ button {
 }
 
 .pepchi {
-    background: url('/assets/img/pepchi.png') no-repeat center;
+    background: url('../assets/img/pepchi.png') no-repeat center;
     background-size: cover;
 }
 
