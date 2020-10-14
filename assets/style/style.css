@@ -9,7 +9,7 @@
 
 
 body {
-    background: url('/assets/img/bg-vendr.png') no-repeat center;
+    background: url('../img/bg-vendr.png') no-repeat center;
     background-size: cover;
     overflow:hidden;  
 /*   font-family: 'Mansalva', cursive; */
@@ -46,107 +46,107 @@ button {
 }
 
 .pepchi {
-    background: url('/assets/img/pepchi.png') no-repeat center;
-    /* background-image: url('/assets/img/pepchi.png');
+    background: url('../img/pepchi.png') no-repeat center;
+    /* background-image: url('../img/pepchi.png');
     background-repeat: no-repeat;
     background-position: center; */
     background-size: cover;
 }
 
 .pepchichi {
-    background: url('/assets/img/pepchichi.png') no-repeat center;
+    background: url('../img/pepchichi.png') no-repeat center;
     background-size: cover;
 }
 
 .mtnstew {
-    background: url('/assets/img/mtnstew.png') no-repeat center;
+    background: url('../img/mtnstew.png') no-repeat center;
     background-size: cover;
 }
 
 .sierracyst {
-    background: url('/assets/img/sierracyst.png') no-repeat center;
+    background: url('../img/sierracyst.png') no-repeat center;
     background-size: cover;
 }
 
 .mtnglue {
-    background: url('/assets/img/mtnglue.png') no-repeat center;
+    background: url('../img/mtnglue.png') no-repeat center;
     background-size: cover;
 }
 
 .mrprepper {
-    background: url('/assets/img/mrprepper.png') no-repeat center;
+    background: url('../img/mrprepper.png') no-repeat center;
     background-size: cover;
 }
 
 .brawndo {
-    background: url('/assets/img/brawndo.png') no-repeat center;
+    background: url('../img/brawndo.png') no-repeat center;
     background-size: cover;
 }
 
 .glockstar {
-    background: url('/assets/img/glockstar.png') no-repeat center;
+    background: url('../img/glockstar.png') no-repeat center;
     background-size: cover;
 }
 
 .outofservice {
-    background: url('/assets/img/outofservice.png') no-repeat center;
+    background: url('../img/outofservice.png') no-repeat center;
     background-size: cover;
 }
 
 .truck {
-    background: url('/assets/img/truck.png') no-repeat center;
+    background: url('../img/truck.png') no-repeat center;
     background-size: cover;
 }
 
 .pepchi-left {
-    background: url('/assets/img/pepchi-left.png') no-repeat center;
+    background: url('../img/pepchi-left.png') no-repeat center;
     background-size: cover;
 }
 
 .pepchichi-left {
-    background: url('/assets/img/pepchichi-left.png') no-repeat center;
+    background: url('../img/pepchichi-left.png') no-repeat center;
     background-size: cover;
 }
 
 .mtnstew-left {
-    background: url('/assets/img/mtnstew-left.png') no-repeat center;
+    background: url('../img/mtnstew-left.png') no-repeat center;
     background-size: cover;
 }
 
 .sierracyst-left {
-    background: url('/assets/img/sierracyst-left.png') no-repeat center;
+    background: url('../img/sierracyst-left.png') no-repeat center;
     background-size: cover;
 }
 
 .mtnglue-left {
-    background: url('/assets/img/mtnglue-left.png') no-repeat center;
+    background: url('../img/mtnglue-left.png') no-repeat center;
     background-size: cover;
 }
 
 .mrprepper-left {
-    background: url('/assets/img/mrprepper-left.png') no-repeat center;
+    background: url('../img/mrprepper-left.png') no-repeat center;
     background-size: cover;
 }
 
 .brawndo-left {
-    background: url('/assets/img/brawndo-left.png') no-repeat center;
+    background: url('../img/brawndo-left.png') no-repeat center;
     background-size: cover;
 }
 
 .glockstar-left {
-    background: url('/assets/img/glockstar-left.png') no-repeat center;
+    background: url('../img/glockstar-left.png') no-repeat center;
     background-size: cover;
 }
 
 .truck-left {
-    background: url('/assets/img/truck-left.png') no-repeat center;
+    background: url('../img/truck-left.png') no-repeat center;
     background-size: cover;
 }
 
 .pay {
   /*#967e5a*/
   background-color: #967e5a !important;
-  background: url('/assets/img/pay.png') no-repeat center;
+  background: url('../img/pay.png') no-repeat center;
   background-size: contain;
   box-shadow: inset 0px 0px 15px 0px #000;
 }
@@ -154,13 +154,13 @@ button {
 .return-change {
   /*#918473*/
   background-color: #918473 !important;
-  background: url('/assets/img/return-change1.png') no-repeat center;
+  background: url('../img/return-change1.png') no-repeat center;
   background-size: contain;
   box-shadow: inset 0px 0px 15px 0px #000;
 }
 
 .item-pickup {
-    background: url('/assets/img/item-pickup.png') no-repeat center;
+    background: url('../img/item-pickup.png') no-repeat center;
     background-size: contain;
     height: 60%;
 }
